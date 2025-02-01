@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+//changes for the react done
 interface Props {
 	signupSuccess: boolean;
 }
